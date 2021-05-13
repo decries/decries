@@ -13,5 +13,5 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=12129190187&cover_image=true&theme=default"/>
 </p>
 <p align="center">
-![](https://komarev.com/ghpvc/?username=acvq)
+<img src="https://komarev.com/ghpvc/?username=acvq">
 </p>
