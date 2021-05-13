@@ -12,3 +12,5 @@
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=12129190187&cover_image=true&theme=default"/>
 </p>
+Profile Visits:
+![](https://profile-counter.glitch.me/kyeondiscord/count.svg)
