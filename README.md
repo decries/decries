@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/821123193006981130.png"/>
+  <img src=" https://discord.c99.nl/widget/theme-2/821123193006981130.png"/>
 </p>
 
 <p align="center">
