@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  
-  <a href="https://ogu.gg/decries"><img src="hhttps://ogu.gg/images/ogusers/3.png"/></a>
+  <a href="https://ogu.gg/decries"><img src="hhttps://ogu.gg/images/ogusers/3.png" height="500" width="600"/></a>
 </p>
 
 <p align="center">
